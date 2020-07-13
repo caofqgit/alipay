@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: 49.233.169.202
+    port: 7000
+    timeout: 5000
